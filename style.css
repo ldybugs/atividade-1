@@ -1,11 +1,18 @@
+.corpo{
+   align-items: center
+}
+
 .imagem1 {
-    width: 200px;
+    width: 150px;
+    margin-left: 650px;
 }
 
 .imagem2 {
-    width: 310px;
+    width: 245px;
+    margin-left: 630px;
 }
 
 .imagem3 {
-    width: 180px;
+    width: 140px;
+    margin-left: 650px;
 }
